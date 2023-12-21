@@ -649,6 +649,106 @@ chrome.contextMenus.create({
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
+    id:"werewolf",
+    title:"werewolf",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"vampire",
+    title:"vampire",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"robots",
+    title:"robots",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"bugs",
+    title:"bugs",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"insects",
+    title:"insects",
+    contexts:["selection"]
+});
+chrome.contextMenus.create({
+    id:"destiny",
+    title:"destiny",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"fate",
+    title:"fate",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"immortal",
+    title:"immortal",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"soul",
+    title:"soul",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"mezmerism",
+    title:"mezmerism",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"dragons",
+    title:"dragons",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"orc",
+    title:"orc",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"goblin",
+    title:"goblin",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"psychic",
+    title:"psychic",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"divination",
+    title:"divination",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"chaos",
+    title:"chaos",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"order",
+    title:"order",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"giants",
+    title:"giants",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"faeries",
+    title:"faeries",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"plant",
+    title:"plant",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"witchcraft",
     title:"witchcraft",
     contexts: ["selection"]

@@ -335,7 +335,7 @@ chrome.contextMenus.create({
 });
 chrome.contextMenus.create({
     id:"ceremony",
-    title:"ceremon",
+    title:"ceremony",
     contexts: ["selection"]
 });
 chrome.contextMenus.create({

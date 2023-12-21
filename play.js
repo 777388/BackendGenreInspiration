@@ -1,4 +1,9 @@
 chrome.contextMenus.create({
+    id:"embrace",
+    title:"embrace",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"fantasy",
     title:"fantasy",
     contexts: ["selection"]
@@ -6,6 +11,26 @@ chrome.contextMenus.create({
 chrome.contextMenus.create({
     id:"fun",
     title:"fun",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"tension",
+    title:"tension",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"medieval",
+    title:"medieval",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"desolation",
+    title:"desolation",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"utopia",
+    title:"utopia",
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
@@ -56,6 +81,11 @@ chrome.contextMenus.create({
 chrome.contextMenus.create({
     id:"halloween",
     title:"halloween",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"glory",
+    title:"glory",
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
@@ -119,6 +149,21 @@ chrome.contextMenus.create({
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
+    id:"warrior",
+    title:"warrior",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"wizard",
+    title:"wizard",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"gonzo",
+    title:"gonzo",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"futurism",
     title:"futurism",
     contexts: ["selection"]
@@ -141,6 +186,16 @@ chrome.contextMenus.create({
 chrome.contextMenus.create({
     id:"god",
     title:"god",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"finance",
+    title:"finance",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"money",
+    title:"money",
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
@@ -179,6 +234,36 @@ chrome.contextMenus.create({
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
+    id:"writing",
+    title:"writing",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"crossroads",
+    title:"crossroads",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"poetry",
+    title:"poetry",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"sleep",
+    title:"sleep",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"awake",
+    title:"awake",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"woke",
+    title:"woke",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"beauty",
     title:"beauty",
     contexts: ["selection"]
@@ -186,6 +271,36 @@ chrome.contextMenus.create({
 chrome.contextMenus.create({
     id:"alien",
     title:"alien",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"death",
+    title:"death",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"painting",
+    title:"painting",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"gore",
+    title:"gore",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"technology",
+    title:"technology",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"for kids",
+    title:"for kids",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"cartoons",
+    title:"cartoons",
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
@@ -209,6 +324,26 @@ chrome.contextMenus.create({
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
+    id:"republic",
+    title:"republic",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"empire",
+    title:"empire",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"ceremony",
+    title:"ceremon",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"ritual",
+    title:"ritual",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"cops and robbers",
     title:"cops and robbers",
     contexts: ["selection"]
@@ -224,8 +359,168 @@ chrome.contextMenus.create({
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
+    id:"ship",
+    title:"ship",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"international",
     title:"international",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"selectivity",
+    title:"selectivity",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"VIP",
+    title:"VIP",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"Exclusive",
+    title:"Exclusive",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"Executive",
+    title:"Executive",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"sexuality",
+    title:"sexuality",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"anarchy",
+    title:"anarchy",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"newsworthy",
+    title:"newsworthy",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"latest",
+    title:"latest",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"distraction",
+    title:"distraction",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"diversion",
+    title:"diversion",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"depersonalize",
+    title:"depersonalize",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"Assimilate",
+    title:"Assimilate",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"personalization",
+    title:"personalization",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"animals",
+    title:"animals",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"event",
+    title:"event",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"entity",
+    title:"entity",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"establishment",
+    title:"establishment",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"behind the scenes",
+    title:"behind the scenes",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"interview",
+    title:"interview",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"commercials",
+    title:"commercials",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"glitch",
+    title:"glitch",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"hackers",
+    title:"hackers",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"anonymity",
+    title:"anonymity",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"revolution",
+    title:"revolution",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"uprising",
+    title:"uprising",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"downfall",
+    title:"downfall",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"ramp up",
+    title:"ramp up",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"competitive",
+    title:"competitive",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"renew",
+    title:"renew",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"healing",
+    title:"healing",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"opening",
+    title:"opening",
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
@@ -236,6 +531,41 @@ chrome.contextMenus.create({
 chrome.contextMenus.create({
     id:"magic",
     title:"magic",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"debunk",
+    title:"debunk",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"coverup",
+    title:"coverup",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id: "red herring",
+    title: "red herring",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id: "covert",
+    title: "covert",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id: "criminal",
+    title: "criminal",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id: "protect",
+    title: "protect",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id: "Malicious",
+    title: "Malicious",
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
@@ -294,6 +624,26 @@ chrome.contextMenus.create({
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
+    id:"spirituality",
+    title:"spirituality",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"freemasonry",
+    title:"freemasonry",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"illuminati",
+    title:"illuminati",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"handling",
+    title:"handling",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"cryptids",
     title:"cryptids",
     contexts: ["selection"]
@@ -329,8 +679,48 @@ chrome.contextMenus.create({
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
+    id:"tune",
+    title:"tune",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"frequency",
+    title:"frequency",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"underground",
     title:"underground",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"complex",
+    title:"complex",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"tactical",
+    title:"tactical",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"master",
+    title:"master",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"sensation",
+    title:"sensation",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"harmony",
+    title:"harmony",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"discord",
+    title:"discord",
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
@@ -344,6 +734,11 @@ chrome.contextMenus.create({
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
+    id:"stoner",
+    title:"stoner",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"training",
     title:"training",
     contexts: ["selection"]
@@ -351,6 +746,11 @@ chrome.contextMenus.create({
 chrome.contextMenus.create({
     id:"engineering",
     title:"engineering",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"temporal",
+    title:"temporal",
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
@@ -366,6 +766,11 @@ chrome.contextMenus.create({
 chrome.contextMenus.create({
     id:"university",
     title:"university",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"village",
+    title:"village",
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
@@ -419,6 +824,11 @@ chrome.contextMenus.create({
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
+    id:"swing",
+    title:"swing",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"sensitive",
     title:"sensitive",
     contexts: ["selection"]
@@ -446,11 +856,6 @@ chrome.contextMenus.create({
 chrome.contextMenus.create({
     id:"decision",
     title:"decision",
-    contexts: ["selection"]
-});
-chrome.contextMenus.create({
-    id:"conflict",
-    title:"conflict",
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
@@ -502,6 +907,16 @@ chrome.contextMenus.create({
     id:"manipulate",
     title:"manipulate",
     contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"hospitality",
+    title:"hospitality",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"Angelic",
+    title:"Angelic",
+    contexts:["selection"]
 });
 chrome.contextMenus.create({
     id:"destructive",
@@ -574,6 +989,21 @@ chrome.contextMenus.create({
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
+    id:"spy",
+    title:"spy",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"sabotage",
+    title:"sabotage",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"heist",
+    title:"heist",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"drama",
     title:"drama",
     contexts: ["selection"]
@@ -584,11 +1014,40 @@ chrome.contextMenus.create({
     contexts: ["selection"]
 });
 chrome.contextMenus.create({
+    id:"superhero",
+    title:"superhero",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"supervillain",
+    title:"supervillain",
+    contexts:["selection"]
+});
+chrome.contextMenus.create({
+    id:"conflict",
+    title:"conflict",
+    contexts:["selection"]
+});
+chrome.contextMenus.create({
+    id:"issue",
+    title:"issue",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
+    id:"comicbook",
+    title:"comicbook",
+    contexts: ["selection"]
+});
+chrome.contextMenus.create({
     id:"animation",
     title:"animation",
     contexts: ["selection"]
 });
-
+chrome.contextMenus.create({
+    id:"dissolve",
+    title:"dissolve",
+    contexts: ["selection"]
+});
 chrome.contextMenus.onClicked.addListener(function (info, tab) {
     if (info.menuItemId){
         const selected = info.selectionText;
